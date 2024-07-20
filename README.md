@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nyasavats
 - 👀 I’m interested in WEB DEVLOPMENT,AUTOMATION & ROBOTICS
-- 🌱 My portfolio https://nyasavats-portfolio.netlify.app/
 - 📫 You can reach me at nyasavats@gmail.com
   
 
