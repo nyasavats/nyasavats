@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nyasavats
-- 👀 I’m interested in WEB DEVLOPMENT,AUTOMATION & ROBOTICS
-- 📫 You can reach me at nyasavats@gmail.com
-  
+🎓 B.Tech. in Automation & Robotics | GGSIPU
+Interested in Intelligent Manufacturing, Industrial Automation, Digital Twins & Industrial IoT.
+Exploring CNC systems, robotics, sensing, data acquisition, and real-time monitoring through hands-on projects and experimentation.
 
 
 <!---
