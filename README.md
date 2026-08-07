@@ -1,6 +1,6 @@
 # Hi, I'm Nyasa 👋
 
-🎓 **B.Tech. in Automation & Robotics | GGSIPU**
+🎓 **B.Tech. in Automation & Robotics | GGSIPU'26**
 
 Interested in **Intelligent Manufacturing, Industrial Automation, Digital Twins & Industrial IoT**.
 
