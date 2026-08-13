@@ -2,13 +2,9 @@
 
 🎓 **B.Tech. in Automation & Robotics | GGSIPU'26**
 
-Interested in **Intelligent Manufacturing, Industrial Automation, Digital Twins & Industrial IoT**.
+Building at the intersection of **machines, data, and intelligent systems**.
 
-I explore **CNC systems, robotics, sensing, data acquisition, and real-time monitoring** through hands-on projects and experimentation.
+Interested in **automation, robotics, industrial IoT, digital twins, and smart manufacturing**, with a growing focus on **data-driven approaches to industrial systems**.
 
-*Learning by building.*
+*Learning by building. Exploring by doing.*
 
-<!---
-nyasavats/nyasavats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
